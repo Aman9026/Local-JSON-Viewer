@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "Aman Gupta",
+        "age" : "21",
+        "height" : "180",
+        "hair_color" : "black"
+    },
+
+    {
+        "name" : "Ayush Verma",
+        "age" : "23",
+        "height" : "170",
+        "hair_color" : "black"
+    },
+
+    {
+        "name" : "MS Dhoni",
+        "age" : "39",
+        "height" : "175",
+        "hair_color" : "black"
+    },
+
+    {
+        "name" : "Harsh Tiwari",
+        "age" : "23",
+        "height" : "190",
+        "hair_color" : "black"
+    }
+]
